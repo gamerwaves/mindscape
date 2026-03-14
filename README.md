@@ -33,3 +33,8 @@ Navigate to: [0.0.0.0:9999](http://0.0.0.0:9999/)
 **Git Link(s):**
 -
  1. [gamerwaves/mindscape](https://github.com/gamerwaves/mindscape)
+
+### Collaborators:
+[@gamerwaves](https://github.com/gamerwaves)
+[@saanvilal](https://github.com/saanvilal)
+
